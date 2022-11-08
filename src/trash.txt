@@ -31,3 +31,5 @@ https://javascript.plainenglish.io/how-to-build-a-contact-form-in-react-that-sen
 
 npm install --save email-js
 npm i emailjs-com semantic-ui-react semantic-ui-css sweetalert2
+
+
