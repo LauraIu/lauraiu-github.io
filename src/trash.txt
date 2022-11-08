@@ -1,0 +1,33 @@
+refce + enter =
+
+import React from 'react'
+
+const index = () => {
+  return (
+    <div>index</div>
+  )
+}
+
+export default index
+
+///////////////////////////////////
+
+install styled components --> npm install --save styled-components
+
+install react-router --> npm install react-router-dom
+
+install react-icons --> npm install react-icons --save
+
+install react-scroll --> npm install react-scroll
+
+npm install --save react-router-hash-link
+//
+
+
+contact form ->> https://www.abstractapi.com/guides/react-send-email-from-your-app-without-a-backend
+
+
+https://javascript.plainenglish.io/how-to-build-a-contact-form-in-react-that-sends-emails-using-emailjs-70011d2563a3
+
+npm install --save email-js
+npm i emailjs-com semantic-ui-react semantic-ui-css sweetalert2
